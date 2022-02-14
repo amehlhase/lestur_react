@@ -20,7 +20,7 @@ const BookCard = ({
     <Card style={{ width: "233px" }} className="m-auto">
       <CardImg
         top
-        style={{ width: "100%", height: "233px" }}
+        style={{ width: "auto", height: "233px" }}
         src={thumbnail}
         alt={title}
       />
